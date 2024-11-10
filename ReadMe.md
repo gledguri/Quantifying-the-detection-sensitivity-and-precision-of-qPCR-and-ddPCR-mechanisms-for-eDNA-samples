@@ -31,7 +31,7 @@ If you use any part of this repository in your work, please cite:
 We acknowledge Agneta Hansen for significant contributions to field and lab work. This research was funded by the project FISHDIV (NRC301691) funded by the Norwegian Research Council (NRC).
 
 ## Contact
-For questions or further information, please contact the corresponding author:
+For questions or further information, please contact:
 **Gledis Guri**  
 Email: gled.guri@gmail.com  
 Phone: +46 700658104  
