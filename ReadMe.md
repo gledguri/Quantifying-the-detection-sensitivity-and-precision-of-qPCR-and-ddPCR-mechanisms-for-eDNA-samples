@@ -1,26 +1,5 @@
 ---
 title: "Quantifying the detection sensitivity and precision of qPCR and ddPCR mechanisms for eDNA samples"
-format: 
-  html:
-    toc: true
-    toc-location: left
-    toc-title: "Table of Contents"
-    toc-depth: 2
-    number-sections: true
-    page-layout: full
-    self-contained: true 
-    collapsible: true
-    collapse-level: 1
-    grid:
-      sidebar-width: 200px
-      body-width: 880px
-      margin-width: 200px
-      gutter-width: 1.5rem
-author: Gled Guri
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-editor: source
-editor_options: 
-  chunk_output_type: console
 ---
 
 
