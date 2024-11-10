@@ -23,32 +23,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<style>
-body {
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-}
 
-h1 {
-  font-size: 22px;  /* Adjust the size of H1 headers */
-  font-weight: bold;  /* Make H1 headers not bold */
-}
-
-h2 {
-  font-size: 18px;  /* Adjust the size of H2 headers */
-  font-weight: normal;  /* Make H2 headers not bold */
-}
-
-h3 {
-  font-size: 18px;  /* Adjust the size of H3 headers */
-  font-weight: normal;  /* Make H3 headers not bold */
-}
-
-h4 {
-  font-size: 18px;  /* Adjust the size of H4 headers */
-  font-weight: normal;  /* Make H4 headers not bold */
-}
-</style>
 
 Load functions
 
@@ -311,7 +286,6 @@ initial_values <- replicate(4,list(
 ```
 
 ## The math
-
 $$
 \begin{aligned}
 &\text{qPCR model}\\
