@@ -3,6 +3,8 @@
 ## Overview
 This repository supports the research article titled **"Quantifying the detection sensitivity and precision of qPCR and ddPCR mechanisms for eDNA samples."** The study investigates and compares the sensitivity and quantification precision of quantitative PCR (qPCR) and droplet digital PCR (ddPCR) in environmental DNA (eDNA) surveys, focusing on three teleost fish species assays.
 
+[Click here to view the Rcode (html)](https://html-preview.github.io/?url=https://github.com/gledguri/Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples/blob/main/Code/Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples.html)
+
 ## Research aim
 
 The aim of this study is to empirically assess the sensitivity and precision of these methods through Bayesian analysis applied to known DNA concentrations (standards) and environmental samples. This helps determine the conditions under which ddPCR outperforms qPCR and provides insights into optimizing quantitative eDNA protocols.
@@ -42,5 +44,5 @@ Phone: +46 700658104
 
 
 
-see the code https://html-preview.github.io/?url=https://github.com/gledguri/Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples/blob/main/Code/Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples.html
+
 
