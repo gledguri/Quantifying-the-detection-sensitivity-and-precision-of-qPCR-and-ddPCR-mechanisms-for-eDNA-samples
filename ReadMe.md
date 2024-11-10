@@ -42,6 +42,5 @@ Phone: +46 700658104
 
 
 
+see the code https://html-preview.github.io/?url=https://github.com/gledguri/Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples/blob/main/Code/Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples.html
 
-
-[Preview HTML](https://htmlpreview.github.io/?https://github.com/<username>/<repository-name>/blob/main/your-file.html)
